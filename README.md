@@ -1,6 +1,6 @@
 # OpenZKA: The Trust Layer for European Data Spaces
 
-![OpenZKA Logo](https://via.placeholder.com/150) <!-- Тук по-късно ще сложим линк към логото -->
+![OpenZKA Logo](Logo%20-%20open%20zka.png) 
 
 **OpenZKA** is an open-source middleware library designed to solve the "Sovereign Gap" in European market research. It enables **Blind Statistical Aggregation** using Zero-Knowledge Proofs (ZKP) and W3C Verifiable Credentials.
 
