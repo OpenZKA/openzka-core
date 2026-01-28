@@ -1,0 +1,28 @@
+{
+  "name": "openzka-core",
+  "version": "0.1.0-alpha",
+  "description": "Privacy-preserving middleware for blind statistical aggregation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests pending implementation\" && exit 0",
+    "compile": "circom circuits/range_proof.circom --r1cs --wasm --sym"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenZKA/openzka-core"
+  },
+  "keywords": [
+    "zero-knowledge",
+    "privacy",
+    "circom",
+    "w3c-vc",
+    "gdpr",
+    "statistical-aggregation"
+  ],
+  "author": "Trustvestor Ltd.",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "circomlib": "^2.0.5",
+    "snarkjs": "^0.7.0"
+  }
+}
