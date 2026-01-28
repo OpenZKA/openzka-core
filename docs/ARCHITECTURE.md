@@ -52,21 +52,3 @@ Status: Planned for Phase 1 implementation
 *Document version: 0.1-alpha (Pre-funding)*
 ```
 
----
-
-## 📊 IMPACT COMPARISON
-
-### Scenario A: Само README update (текущо)
-```
-Technical Excellence: 6.0/7 (без промяна)
-Reviewer reaction: "Добре организирани, честни за current status"
-```
-
-### Scenario B: README + Prototype Circuit
-```
-Technical Excellence: 6.0 → 6.5/7 (+0.5)
-Reviewer reaction: "Имат working code! Execution risk е нисък"
-Weighted impact: +0.15 общо (6.27 → 6.42)
-```
-The existing repository structure accelerates development and reduces 
-execution risk for NGI Zero investment.
